@@ -76,8 +76,13 @@ footer {
   }
 
   footer {
-    background-color:peru ;
+    background-color:rgb(136, 121, 106) ;
   }
+
+  .col-3 {
+    width: 33.33333%;
+  }
+
   
 }
 
